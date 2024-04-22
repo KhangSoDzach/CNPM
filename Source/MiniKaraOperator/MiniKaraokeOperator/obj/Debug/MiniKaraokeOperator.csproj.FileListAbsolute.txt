@@ -1,0 +1,118 @@
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.exe.config
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.exe
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.pdb
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChinhSuaSanPham.baml
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChiTietSp.baml
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MainWindow.baml
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaLoaiPhong.baml
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaPhongHat.baml
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemPhongHat.baml
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\NhapSoLuong_Dialog.baml
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChinhSuaSanPham.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChiTietSp.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MainWindow.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaLoaiPhong.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaPhongHat.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemPhongHat.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\NhapSoLuong_Dialog.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\App.g.cs
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator_MarkupCompile.cache
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.g.resources
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.Properties.Resources.resources
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.csproj.GenerateResource.Cache
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.exe
+C:\Users\Donleqt\documents\visual studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.pdb
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManhHinhDatPhong.baml
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManhHinhDatPhong.g.cs
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemKhachHangDatPhong.baml
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemKhachHangDatPhong.g.cs
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhTinhTien.baml
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhTinhTien.g.cs
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHThongKe.baml
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHThongKe.g.cs
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyLoaiPhong.baml
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyLoaiPhong.g.cs
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyKhachHang.baml
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyKhachHang.g.cs
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChuyenPhongDialog.baml
+C:\Users\Donleqt\Documents\Visual Studio 2013\Projects\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChuyenPhongDialog.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.exe.config
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.exe
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.pdb
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.exe
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.pdb
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.csprojResolveAssemblyReference.cache
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChinhSuaSanPham.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChiTietSp.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChuyenPhongDialog.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MainWindow.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManhHinhDatPhong.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaLoaiPhong.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaPhongHat.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemKhachHangDatPhong.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemPhongHat.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhTinhTien.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyKhachHang.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyLoaiPhong.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHThongKe.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\NhapSoLuong_Dialog.baml
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChinhSuaSanPham.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChiTietSp.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChuyenPhongDialog.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MainWindow.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManhHinhDatPhong.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaLoaiPhong.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaPhongHat.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemKhachHangDatPhong.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemPhongHat.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhTinhTien.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyKhachHang.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyLoaiPhong.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHThongKe.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\NhapSoLuong_Dialog.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\App.g.cs
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator_MarkupCompile.cache
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.g.resources
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.Properties.Resources.resources
+C:\Users\Donleqt\Desktop\PTTK\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.csproj.GenerateResource.Cache
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.exe.config
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.exe
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\bin\Debug\MiniKaraokeOperator.pdb
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.csproj.AssemblyReference.cache
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.csproj.SuggestedBindingRedirects.cache
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChinhSuaSanPham.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChiTietSp.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChuyenPhongDialog.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MainWindow.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManhHinhDatPhong.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaLoaiPhong.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaPhongHat.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemKhachHangDatPhong.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemPhongHat.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhTinhTien.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyKhachHang.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyLoaiPhong.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHThongKe.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\NhapSoLuong_Dialog.baml
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChinhSuaSanPham.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChiTietSp.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ChuyenPhongDialog.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MainWindow.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManhHinhDatPhong.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaLoaiPhong.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhChinhSuaPhongHat.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemKhachHangDatPhong.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhThemPhongHat.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\ManHinhTinhTien.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyKhachHang.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHQuanLyLoaiPhong.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MHThongKe.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\NhapSoLuong_Dialog.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\App.g.cs
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator_MarkupCompile.cache
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.g.resources
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.Properties.Resources.resources
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.csproj.GenerateResource.cache
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.csproj.CoreCompileInputs.cache
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.exe
+E:\Code\CNPM\CK\1312140-1312124\Source\MiniKaraOperator\MiniKaraokeOperator\obj\Debug\MiniKaraokeOperator.pdb
